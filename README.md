@@ -17,7 +17,7 @@ Sing-Box 一键搭建配置脚本（macOS arm64）可用做网关代理
 ## 目录结构
     .
     ├── make-sing-box-env.sh                        # sing-box 环境搭建脚本  
-    ├── 1.15.0-alpha.5.json                         # sing-box json 模板  
+    ├── 1.15.0-alpha.6.json                         # sing-box json 模板  
     ├── LICENSE                                     # TIM 协议  
     ├── requestment.txt                             # Python脚本所需依赖  
     ├── make_star_chart.py                          # 生成 星星统计 脚本  
@@ -107,7 +107,7 @@ Sing-Box 一键搭建配置脚本（macOS arm64）可用做网关代理
 
    ```plaintext
    $HOME/Desktop/sing-boxs
-    ├── 1.15.0-alpha.5.json
+    ├── 1.15.0-alpha.6.json
     ├── config_with_nodes.json
     ├── config.json
     ├── config.json.bak
@@ -122,7 +122,7 @@ Sing-Box 一键搭建配置脚本（macOS arm64）可用做网关代理
     │   ├── geosite-geolocation-!cn.srs
     │   ├── ui
     │   └── ui.zip
-    ├── sing-box-1.15.0-alpha.5-darwin-arm64.tar.gz
+    ├── sing-box-1.15.0-alpha.6-darwin-arm64.tar.gz
     ├── sing-box-start.sh
     ├── subs-fix.py
     └── temp_config.json
